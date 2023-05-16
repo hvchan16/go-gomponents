@@ -1,0 +1,9 @@
+mode: set
+canvas/server/routes.go:3.33,5.2 0 1
+canvas/server/server.go:27.32,42.2 3 1
+canvas/server/server.go:45.32,49.91 3 1
+canvas/server/server.go:49.91,51.3 1 0
+canvas/server/server.go:52.2,52.12 1 1
+canvas/server/server.go:56.31,62.47 4 1
+canvas/server/server.go:62.47,64.3 1 0
+canvas/server/server.go:65.2,65.12 1 1
